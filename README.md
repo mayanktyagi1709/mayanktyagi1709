@@ -34,9 +34,14 @@
 
 ---
 
+<<<<<<< HEAD
 <img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayanktyagi1709&show_icons=true&hide_border=true" />
 
 
+=======
+ <img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayanktyagi1709&show_icons=true&hide_border=true" />
+
+>>>>>>> 2a8abff3d19d2d2a3b0ee4598706fcb9bd59a873
 
 [twitter]: https://twitter.com/iamtyagi__
 [instagram]: https://www.instagram.com/mayank.tyagi__/
