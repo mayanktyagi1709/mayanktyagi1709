@@ -28,11 +28,7 @@
   
 </p>
 
-<<<<<<< HEAD
-
-=======
 <br>
->>>>>>> 80e821bb9f31d7274e51f683e6966380fc889f78
 <br />
 
 ### Languages and Tools:
