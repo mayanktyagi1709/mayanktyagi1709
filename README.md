@@ -28,7 +28,11 @@
   
 </p>
 
+<<<<<<< HEAD
 
+=======
+<br>
+>>>>>>> 80e821bb9f31d7274e51f683e6966380fc889f78
 <br />
 
 ### Languages and Tools:
@@ -48,14 +52,9 @@
 <br />
 <br />
 
----
 
-<<<<<<< HEAD
 <img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayanktyagi1709&show_icons=true&theme=radical" />
 
-=======
-<img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayanktyagi1709&show_icons=true&hide_border=true" />
->>>>>>> 20f923bb127e345ecbf3b48446c9e558aefb3971
 
 [twitter]: https://twitter.com/iamtyagi__
 [instagram]: https://www.instagram.com/mayank.tyagi__/
