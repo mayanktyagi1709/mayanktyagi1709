@@ -2,17 +2,30 @@
 
 ## I'm a self-taught passionate FrontEnd developer from India 🇮🇳!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 Mantra of my life-"To keep your balance you must keep moving!"
+- ✍️ I like experimenting with new technologies, building small projects
+- 👯 I’m currently learning React
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and explore new places
+
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/mayanktyagi1709/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/iamtyagi__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mayank.tyagi__/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 
 <br />
 
@@ -35,7 +48,7 @@
 
 ---
 
-<img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayanktyagi1709&show_icons=true&hide_border=true" />
+<img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mayanktyagi1709&show_icons=true&theme=radical" />
 
 
 [twitter]: https://twitter.com/iamtyagi__
