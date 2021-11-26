@@ -8,10 +8,12 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and explore new places
 
-
+<p align='center'>
+   <img src="https://visitor-badge.glitch.me/badge?page_id=mayanktyagi1709.mayanktyagi1709" alt="visitor badge"/>
+        
+</p>
 ### Connect with me:
 
-<<<<<<< HEAD
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/mayanktyagi1709/">
@@ -25,13 +27,6 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
-=======
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
->>>>>>> 20f923bb127e345ecbf3b48446c9e558aefb3971
 
 
 <br />
