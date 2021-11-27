@@ -3,7 +3,7 @@
 ## I'm a self-taught passionate FrontEnd developer from India 🇮🇳!!
 
 - 🌱 Mantra of my life-"To keep your balance you must keep moving!"
-- ✍️ I like experimenting with new technologies, building small projects
+- ✍️ I like experimenting with new technologies and building small projects
 - 👯 I’m currently learning React
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and explore new places
