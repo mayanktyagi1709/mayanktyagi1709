@@ -1,8 +1,8 @@
 ### Hi there, I'm Mayank 👋
 
-## I'm a self-taught passionate FrontEnd developer from India 🇮🇳!!
+## I'm a self-taught passionate Software Engineer!!
 
-- 🌱 Mantra of my life-"To keep your balance you must keep moving!"
+- 🌱 Mantra of my life-"To keep your balance, you must keep moving!"
 - ✍️ I like experimenting with new technologies and building small projects
 - 👯 I’m currently learning React
 - 🥅 2024 Goals: Contribute more to Open Source projects
